@@ -1,6 +1,8 @@
 # intrerview_test_task_0
 Simple desktop database client.
 
+![screenshot](screenshot.png)
+
 Тестовое задание
 
 1. Справочники
