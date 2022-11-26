@@ -1,0 +1,6 @@
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(6,6,1,'Режим 1',20)
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(8,7,1,'Режим 1',10)
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(9,6,2,'Режим 3',20)
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(10,7,2,'Режим 2',10)
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(12,8,1,'Режим 1',20)
+insert into [dbo].[UnitModes] ([ID],[UnitID],[OrderID],[Name],[LossesRatio])values(13,8,2,'Режим 2',20)

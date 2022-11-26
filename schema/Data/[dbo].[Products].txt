@@ -1,0 +1,3 @@
+insert into [dbo].[Products] ([ID],[Code],[Name],[GroupID],[Enabled])values(1,11,'Продукт А',3,1)
+insert into [dbo].[Products] ([ID],[Code],[Name],[GroupID],[Enabled])values(2,22,'Продукт Б',1,1)
+insert into [dbo].[Products] ([ID],[Code],[Name],[GroupID],[Enabled])values(3,33,'Продукт В',3,1)

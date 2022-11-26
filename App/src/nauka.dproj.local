@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\USER\Documents\RAD Studio\Projects\fm_main.dfm=C:\WORK\Nauka\App\src\fm_main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\WORK\Nauka\App\src\fm_product_groups.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\USER\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\USER\Documents\RAD Studio\Projects\fm_main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=C:\Users\USER\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\USER\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\USER\Documents\RAD Studio\Projects\fm_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,C:\WORK\Nauka\App\src\Unit1.pas=C:\WORK\Nauka\App\src\fm_add_prod_unit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,C:\WORK\Nauka\App\src\Unit1.pas=C:\WORK\Nauka\App\src\fm_new_mode_product.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,C:\WORK\Nauka\App\src\fm_products.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,C:\WORK\Nauka\App\src\nauka_types.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\WORK\Nauka\App\src\fm_preview.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,C:\WORK\Nauka\App\src\fm_new_product.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\WORK\Nauka\App\src\fm_new_mode.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\WORK\Nauka\App\src\fm_product_groups.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\USER\Documents\RAD Studio\Projects\Project1.dproj=C:\WORK\Nauka\App\src\nauka.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\WORK\Nauka\App\src\fm_preview.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\USER\Documents\RAD Studio\Projects\fm_main.pas=C:\WORK\Nauka\App\src\fm_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,C:\WORK\Nauka\App\src\fm_new_product_group.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\WORK\Nauka\App\src\fm_units.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,C:\WORK\Nauka\App\src\fm_new_product.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\WORK\Nauka\App\src\fm_new_mode.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,C:\WORK\Nauka\App\src\fm_products.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,C:\WORK\Nauka\App\src\Unit1.pas=C:\WORK\Nauka\App\src\fm_text_input.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,C:\WORK\Nauka\App\src\fm_new_unit.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\WORK\Nauka\App\src\fm_add_prod_unit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,C:\WORK\Nauka\App\src\fm_new_product_group.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\WORK\Nauka\App\src\fm_units.dfm=C:\WORK\Nauka\App\src\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,C:\WORK\Nauka\App\src\Unit1.dfm=C:\WORK\Nauka\App\src\fm_new_mode_product.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,C:\WORK\Nauka\App\src\fm_new_unit.pas=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,C:\WORK\Nauka\App\src\Unit1.dfm=C:\WORK\Nauka\App\src\fm_text_input.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,=C:\WORK\Nauka\App\src\sqlthrd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,C:\WORK\Nauka\App\src\Unit1.dfm=C:\WORK\Nauka\App\src\fm_add_prod_unit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,=C:\WORK\Nauka\App\src\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="fm_main.pas"/>
+    <File Path="fm_main.dfm"/>
+    <File Path="fm_new_mode.pas"/>
+    <File Path="fm_new_mode.dfm"/>
+    <File Path="fm_new_product_group.pas"/>
+    <File Path="fm_new_product_group.dfm"/>
+    <File Path="fm_new_unit.pas"/>
+    <File Path="fm_new_unit.dfm"/>
+    <File Path="fm_product_groups.pas"/>
+    <File Path="fm_product_groups.dfm"/>
+    <File Path="fm_units.pas"/>
+    <File Path="fm_units.dfm"/>
+    <File Path="fm_products.pas"/>
+    <File Path="fm_products.dfm"/>
+    <File Path="fm_new_product.pas"/>
+    <File Path="fm_new_product.dfm"/>
+    <File Path="nauka_types.pas"/>
+    <File Path="sqlthrd.pas"/>
+    <File Path="fm_new_mode_product.pas"/>
+    <File Path="fm_new_mode_product.dfm"/>
+    <File Path="fm_text_input.pas"/>
+    <File Path="fm_text_input.dfm"/>
+    <File Path="fm_preview.pas"/>
+    <File Path="fm_preview.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
