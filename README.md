@@ -1,4 +1,4 @@
-# intrerview_test_task_0
+# interview_test_task_0
 Simple desktop database client.
 
 ![screenshot](screenshot.png)
